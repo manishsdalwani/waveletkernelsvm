@@ -1,0 +1,1305 @@
+
+
+
+*** Processing subject 1 (5014) ***
+
+
+
+
+
+*** Processing subject 2 (5017) ***
+
+
+
+
+
+*** Processing subject 3 (5021) ***
+
+
+
+
+
+*** Processing subject 4 (5022) ***
+
+
+
+
+
+*** Processing subject 5 (5024) ***
+
+
+
+
+
+*** Processing subject 6 (5029) ***
+
+
+
+
+
+*** Processing subject 7 (5030) ***
+
+
+
+
+
+*** Processing subject 8 (5034) ***
+
+
+
+
+
+*** Processing subject 9 (5063) ***
+
+
+
+
+
+*** Processing subject 10 (5068) ***
+
+
+
+
+
+*** Processing subject 11 (5070) ***
+
+
+
+
+
+*** Processing subject 12 (5072) ***
+
+
+
+
+
+*** Processing subject 13 (5073) ***
+
+
+
+
+
+*** Processing subject 14 (5074) ***
+
+
+
+
+
+*** Processing subject 15 (5075) ***
+
+
+
+
+
+*** Processing subject 16 (5076) ***
+
+
+
+
+
+*** Processing subject 17 (5079) ***
+
+
+
+
+
+*** Processing subject 18 (5081) ***
+
+
+
+
+
+*** Processing subject 19 (5082) ***
+
+
+
+
+
+*** Processing subject 20 (5083) ***
+
+
+
+
+
+*** Processing subject 21 (5016) ***
+
+
+
+
+
+*** Processing subject 22 (5025) ***
+
+
+
+
+
+*** Processing subject 23 (5032) ***
+
+
+
+
+
+*** Processing subject 24 (5037) ***
+
+
+
+
+
+*** Processing subject 25 (5099) ***
+
+
+
+
+
+*** Processing subject 26 (5100) ***
+
+
+
+
+
+*** Processing subject 27 (5104) ***
+
+
+
+
+
+*** Processing subject 28 (5106) ***
+
+
+
+
+
+*** Processing subject 29 (5108) ***
+
+
+
+
+
+*** Processing subject 30 (5163) ***
+
+
+
+
+
+*** Processing subject 31 (5174) ***
+
+
+
+
+
+*** Processing subject 32 (5175) ***
+
+
+
+
+
+*** Processing subject 33 (5176) ***
+
+
+
+
+
+*** Processing subject 34 (5190) ***
+
+
+
+
+
+*** Processing subject 35 (5194) ***
+
+
+
+
+
+*** Processing subject 36 (5197) ***
+
+
+
+
+
+*** Processing subject 37 (5203) ***
+
+
+
+
+
+*** Processing subject 38 (5214) ***
+
+
+
+
+
+*** Processing subject 39 (5215) ***
+
+
+
+
+
+*** Processing subject 40 (5216) ***
+
+
+
+
+
+*** Processing subject 41 (5011) ***
+
+
+
+
+
+*** Processing subject 42 (5013) ***
+
+
+
+
+
+*** Processing subject 43 (5018) ***
+
+
+
+
+
+*** Processing subject 44 (5033) ***
+
+
+
+
+
+*** Processing subject 45 (5044) ***
+
+
+
+
+
+*** Processing subject 46 (5047) ***
+
+
+
+
+
+*** Processing subject 47 (5049) ***
+
+
+
+
+
+*** Processing subject 48 (5050) ***
+
+
+
+
+
+*** Processing subject 49 (5051) ***
+
+
+
+
+
+*** Processing subject 50 (5052) ***
+
+
+
+
+
+*** Processing subject 51 (5054) ***
+
+
+
+
+
+*** Processing subject 52 (5056) ***
+
+
+
+
+
+*** Processing subject 53 (5057) ***
+
+
+
+
+
+*** Processing subject 54 (5061) ***
+
+
+
+
+
+*** Processing subject 55 (5062) ***
+
+
+
+
+
+*** Processing subject 56 (5067) ***
+
+
+
+
+
+*** Processing subject 57 (5084) ***
+
+
+
+
+
+*** Processing subject 58 (5085) ***
+
+
+
+
+
+*** Processing subject 59 (5087) ***
+
+
+
+
+
+*** Processing subject 60 (5088) ***
+
+
+
+
+
+*** Processing subject 61 (5009) ***
+
+
+
+
+
+*** Processing subject 62 (5010) ***
+
+
+
+
+
+*** Processing subject 63 (5055) ***
+
+
+
+
+
+*** Processing subject 64 (5066) ***
+
+
+
+
+
+*** Processing subject 65 (5090) ***
+
+
+
+
+
+*** Processing subject 66 (5092) ***
+
+
+
+
+
+*** Processing subject 67 (5093) ***
+
+
+
+
+
+*** Processing subject 68 (5094) ***
+
+
+
+
+
+*** Processing subject 69 (5096) ***
+
+
+
+
+
+*** Processing subject 70 (5097) ***
+
+
+
+
+
+*** Processing subject 71 (5116) ***
+
+
+
+
+
+*** Processing subject 72 (5119) ***
+
+
+
+
+
+*** Processing subject 73 (5134) ***
+
+
+
+
+
+*** Processing subject 74 (5136) ***
+
+
+
+
+
+*** Processing subject 75 (5149) ***
+
+
+
+
+
+*** Processing subject 76 (5155) ***
+
+
+
+
+
+*** Processing subject 77 (5157) ***
+
+
+
+
+
+*** Processing subject 78 (5159) ***
+
+
+
+
+
+*** Processing subject 79 (5171) ***
+
+
+
+
+
+*** Processing subject 80 (5182) ***
+
+
+
+
+
+*** Processing subject 81 (5187) ***
+
+
+Cross Validation Accuracy = 63.75%
+-10.1 (best c=63.75,rate=0.000911165)
+63.75 (best c=Cross Validation Accuracy = 67.5%
+-9.1 (best c=67.5,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+-8.1 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+-7.1 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+-6.1 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+-5.1 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+-4.1 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+-3.1 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+-2.1 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+-1.1 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+-0.1 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+0.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+1.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+2.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+3.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+4.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+5.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+6.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+7.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+8.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=Cross Validation Accuracy = 63.75%
+9.9 (best c=63.75,rate=0.00182233)
+67.5 (best c=....*.*
+optimization finished, #iter = 473
+nu = 0.533308
+obj = -0.053279, rho = 0.080587
+nSV = 60, nBSV = 30
+Total nSV = 60
+Accuracy = 88.8889% (8/9) (classification)
+
+AccuracyData =
+
+   88.8889
+
+
+MeanAbsErr =
+
+    0.1111
+
+
+C =
+
+     4     1
+     0     4
+
+
+order =
+
+    -1
+     1
+
+Cross Validation Accuracy = 69.4444%
+-10.1 (best c=69.4444,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 62.5%
+-9.1 (best c=62.5,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 66.6667%
+-8.1 (best c=66.6667,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 68.0556%
+-7.1 (best c=68.0556,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+-6.1 (best c=69.4444,rate=0.0145786)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+-5.1 (best c=69.4444,rate=0.0291573)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+-4.1 (best c=69.4444,rate=0.0583146)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+-3.1 (best c=69.4444,rate=0.116629)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+-2.1 (best c=69.4444,rate=0.233258)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+-1.1 (best c=69.4444,rate=0.466516)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+-0.1 (best c=69.4444,rate=0.933033)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+0.9 (best c=69.4444,rate=1.86607)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+1.9 (best c=69.4444,rate=3.73213)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+2.9 (best c=69.4444,rate=7.46426)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+3.9 (best c=69.4444,rate=14.9285)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+4.9 (best c=69.4444,rate=29.8571)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+5.9 (best c=69.4444,rate=59.7141)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+6.9 (best c=69.4444,rate=119.428)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+7.9 (best c=69.4444,rate=238.856)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+8.9 (best c=69.4444,rate=477.713)
+69.4444 (best c=Cross Validation Accuracy = 69.4444%
+9.9 (best c=69.4444,rate=955.426)
+69.4444 (best c=.............*......*
+optimization finished, #iter = 1438
+nu = 0.000002
+obj = -0.083520, rho = 0.065422
+nSV = 49, nBSV = 0
+Total nSV = 49
+Accuracy = 88.8889% (8/9) (classification)
+
+AccuracyData =
+
+   88.8889   88.8889
+
+
+MeanAbsErr =
+
+    0.1111    0.1111
+
+
+C =
+
+     3     0
+     1     5
+
+
+order =
+
+    -1
+     1
+
+Cross Validation Accuracy = 70.8333%
+-10.1 (best c=70.8333,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 65.2778%
+-9.1 (best c=65.2778,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+-8.1 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+-7.1 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+-6.1 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+-5.1 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+-4.1 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+-3.1 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+-2.1 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+-1.1 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+-0.1 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+0.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+1.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+2.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+3.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+4.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+5.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+6.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+7.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+8.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=Cross Validation Accuracy = 63.8889%
+9.9 (best c=63.8889,rate=0.000911165)
+70.8333 (best c=..*.*
+optimization finished, #iter = 230
+nu = 0.631134
+obj = -0.029416, rho = 0.050785
+nSV = 57, nBSV = 35
+Total nSV = 57
+Accuracy = 55.5556% (5/9) (classification)
+
+AccuracyData =
+
+   88.8889   88.8889   55.5556
+
+
+MeanAbsErr =
+
+    0.1111    0.1111    0.4444
+
+
+C =
+
+     2     2
+     2     3
+
+
+order =
+
+    -1
+     1
+
+Cross Validation Accuracy = 68.0556%
+-10.1 (best c=68.0556,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 66.6667%
+-9.1 (best c=66.6667,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 63.8889%
+-8.1 (best c=63.8889,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 63.8889%
+-7.1 (best c=63.8889,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+-6.1 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+-5.1 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+-4.1 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+-3.1 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+-2.1 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+-1.1 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+-0.1 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+0.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+1.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+2.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+3.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+4.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+5.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+6.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+7.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+8.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 62.5%
+9.9 (best c=62.5,rate=0.000911165)
+68.0556 (best c=..*.*
+optimization finished, #iter = 251
+nu = 0.647077
+obj = -0.031917, rho = -0.063668
+nSV = 57, nBSV = 35
+Total nSV = 57
+Accuracy = 55.5556% (5/9) (classification)
+
+AccuracyData =
+
+   88.8889   88.8889   55.5556   55.5556
+
+
+MeanAbsErr =
+
+    0.1111    0.1111    0.4444    0.4444
+
+
+C =
+
+     0     4
+     0     5
+
+
+order =
+
+    -1
+     1
+
+Cross Validation Accuracy = 69.4444%
+-10.1 (best c=69.4444,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 65.2778%
+-9.1 (best c=65.2778,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 65.2778%
+-8.1 (best c=65.2778,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+-7.1 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+-6.1 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+-5.1 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+-4.1 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+-3.1 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+-2.1 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+-1.1 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+-0.1 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+0.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+1.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+2.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+3.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+4.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+5.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+6.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+7.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+8.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=Cross Validation Accuracy = 63.8889%
+9.9 (best c=63.8889,rate=0.000911165)
+69.4444 (best c=..*..*
+optimization finished, #iter = 313
+nu = 0.704170
+obj = -0.034389, rho = 0.011248
+nSV = 60, nBSV = 37
+Total nSV = 60
+Accuracy = 88.8889% (8/9) (classification)
+
+AccuracyData =
+
+   88.8889   88.8889   55.5556   55.5556   88.8889
+
+
+MeanAbsErr =
+
+    0.1111    0.1111    0.4444    0.4444    0.1111
+
+
+C =
+
+     5     0
+     1     3
+
+
+order =
+
+    -1
+     1
+
+Cross Validation Accuracy = 68.0556%
+-10.1 (best c=68.0556,rate=0.000911165)
+68.0556 (best c=Cross Validation Accuracy = 69.4444%
+-9.1 (best c=69.4444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 62.5%
+-8.1 (best c=62.5,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 58.3333%
+-7.1 (best c=58.3333,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+-6.1 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+-5.1 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+-4.1 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+-3.1 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+-2.1 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+-1.1 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+-0.1 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+0.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+1.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+2.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+3.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+4.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+5.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+6.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+7.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+8.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=Cross Validation Accuracy = 56.9444%
+9.9 (best c=56.9444,rate=0.00182233)
+69.4444 (best c=...*...*
+optimization finished, #iter = 433
+nu = 0.575753
+obj = -0.052317, rho = 0.015314
+nSV = 57, nBSV = 26
+Total nSV = 57
+Accuracy = 100% (9/9) (classification)
+
+AccuracyData =
+
+   88.8889   88.8889   55.5556   55.5556   88.8889  100.0000
+
+
+MeanAbsErr =
+
+    0.1111    0.1111    0.4444    0.4444    0.1111         0
+
+
+C =
+
+     5     0
+     0     4
+
+
+order =
+
+    -1
+     1
+
+Cross Validation Accuracy = 62.5%
+-10.1 (best c=62.5,rate=0.000911165)
+62.5 (best c=Cross Validation Accuracy = 62.5%
+-9.1 (best c=62.5,rate=0.00182233)
+62.5 (best c=Cross Validation Accuracy = 65.2778%
+-8.1 (best c=65.2778,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+-7.1 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+-6.1 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+-5.1 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+-4.1 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+-3.1 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+-2.1 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+-1.1 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+-0.1 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+0.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+1.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+2.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+3.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+4.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+5.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+6.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+7.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+8.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=Cross Validation Accuracy = 62.5%
+9.9 (best c=62.5,rate=0.00364466)
+65.2778 (best c=.....*..*
+optimization finished, #iter = 518
+nu = 0.405555
+obj = -0.067164, rho = 0.164409
+nSV = 47, nBSV = 14
+Total nSV = 47
+Accuracy = 77.7778% (7/9) (classification)
+
+AccuracyData =
+
+   88.8889   88.8889   55.5556   55.5556   88.8889  100.0000   77.7778
+
+
+MeanAbsErr =
+
+    0.1111    0.1111    0.4444    0.4444    0.1111         0    0.2222
+
+
+C =
+
+     4     0
+     2     3
+
+
+order =
+
+    -1
+     1
+
+Cross Validation Accuracy = 65.2778%
+-10.1 (best c=65.2778,rate=0.000911165)
+65.2778 (best c=Cross Validation Accuracy = 73.6111%
+-9.1 (best c=73.6111,rate=0.00182233)
+73.6111 (best c=Cross Validation Accuracy = 79.1667%
+-8.1 (best c=79.1667,rate=0.00364466)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+-7.1 (best c=79.1667,rate=0.00728932)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+-6.1 (best c=79.1667,rate=0.0145786)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+-5.1 (best c=79.1667,rate=0.0291573)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+-4.1 (best c=79.1667,rate=0.0583146)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+-3.1 (best c=79.1667,rate=0.116629)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+-2.1 (best c=79.1667,rate=0.233258)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+-1.1 (best c=79.1667,rate=0.466516)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+-0.1 (best c=79.1667,rate=0.933033)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+0.9 (best c=79.1667,rate=1.86607)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+1.9 (best c=79.1667,rate=3.73213)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+2.9 (best c=79.1667,rate=7.46426)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+3.9 (best c=79.1667,rate=14.9285)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+4.9 (best c=79.1667,rate=29.8571)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+5.9 (best c=79.1667,rate=59.7141)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+6.9 (best c=79.1667,rate=119.428)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+7.9 (best c=79.1667,rate=238.856)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+8.9 (best c=79.1667,rate=477.713)
+79.1667 (best c=Cross Validation Accuracy = 79.1667%
+9.9 (best c=79.1667,rate=955.426)
+79.1667 (best c=...........*...*
+optimization finished, #iter = 1070
+nu = 0.000002
+obj = -0.085831, rho = -0.023258
+nSV = 43, nBSV = 0
+Total nSV = 43
+Accuracy = 77.7778% (7/9) (classification)
+
+AccuracyData =
+
+   88.8889   88.8889   55.5556   55.5556   88.8889  100.0000   77.7778   77.7778
+
+
+MeanAbsErr =
+
+    0.1111    0.1111    0.4444    0.4444    0.1111         0    0.2222    0.2222
+
+
+C =
+
+     1     1
+     1     6
+
+
+order =
+
+    -1
+     1
+
+Cross Validation Accuracy = 76.3889%
+-10.1 (best c=76.3889,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 69.4444%
+-9.1 (best c=69.4444,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+-8.1 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 73.6111%
+-7.1 (best c=73.6111,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+-6.1 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+-5.1 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+-4.1 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+-3.1 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+-2.1 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+-1.1 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+-0.1 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+0.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+1.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+2.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+3.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+4.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+5.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+6.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+7.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+8.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=Cross Validation Accuracy = 72.2222%
+9.9 (best c=72.2222,rate=0.000911165)
+76.3889 (best c=..*..*
+optimization finished, #iter = 307
+nu = 0.679203
+obj = -0.032510, rho = -0.096290
+nSV = 61, nBSV = 38
+Total nSV = 61
+Accuracy = 66.6667% (6/9) (classification)
+
+AccuracyData =
+
+   88.8889   88.8889   55.5556   55.5556   88.8889  100.0000   77.7778   77.7778   66.6667
+
+
+MeanAbsErr =
+
+    0.1111    0.1111    0.4444    0.4444    0.1111         0    0.2222    0.2222    0.3333
+
+
+C =
+
+     5     3
+     0     1
+
+
+order =
+
+    -1
+     1
+
+
+mean_correct_boys =
+
+    3.2222
+
+
+mean_incorrect_boys =
+
+    1.2222
+
+
+mean_correct_girls =
+
+    3.7778
+
+
+mean_incorrect_girls =
+
+    0.7778
+
+
+per_corr_boys =
+
+    0.7250
+
+
+per_corr_girls =
+
+    0.8293
+
+
+bal_Accuracy =
+
+    0.7771
+
+
+precision_boys =
+
+    0.8056
+
+
+precision_girls =
+
+    0.7556
+
+
+Recall_boys =
+
+    0.7250
+
+
+Recall_girls =
+
+    0.8293
+
+
+sensitivity_boys =
+
+    0.7250
+
+
+sensitivity_girls =
+
+    0.8293
+
+
+specificity_boys =
+
+    0.8293
+
+
+specificity_girls =
+
+    0.7250
+
+
+Fscore_boys =
+
+    0.7632
+
+
+Fscore_girls =
+
+    0.7907
+
+
+FP_rate_boys =
+
+    0.1707
+
+
+FP_rate_girls =
+
+    0.2750
+
+
+TP_rate_boys =
+
+    0.7250
+
+
+TP_rate_girls =
+
+    0.8293
+
+
+random_Accuracy =
+
+    0.5007
+
+
+mean_Accuracy =
+
+   77.7778
+
+
+kappa =
+
+    0.5549
+
+
+mean_absolute_error =
+
+    0.2222
+
+
+TP_weighted =
+
+    0.7771
+
+
+FP_weighted =
+
+    0.2229
+
+
+Precision_weighted =
+
+    0.7806
+
+
+Recall_weighted =
+
+    0.7771
+
+
+Fscore_weighted =
+
+    0.7769
+
+
+Pred_boys =
+
+    29
+
+
+Pred_girls =
+
+    34
+
+ Accuracy MeanAbsoluteError Kappa TP FP Precision Recall F1score AUC PredBoys PredGirls
+  Columns 1 through 9
+
+   77.7778    0.2222    0.5549    0.7771    0.2229    0.7806    0.7771    0.7769    0.8553
+
+  Columns 10 through 11
+
+   29.0000   34.0000
+
+ BalancedAccuracy PrecisionBoys PrecisionGirls RecallBoys RecallGirls  SensitivityBoys SensitivityGirls SpecificityBoys SpecificityGirls FscoreBoys FscoreGirls FPrateBoys FPrateGirls TPrateBoys TPrateGirls
+  Columns 1 through 9
+
+   77.7134    0.8056    0.7556    0.7250    0.8293    0.7250    0.8293    0.8293    0.7250
+
+  Columns 10 through 15
+
+    0.7632    0.7907    0.1707    0.2750    0.7250    0.8293
+
+cd(basedir);
+diary log_striatum_RBF_SVM.txt;feb8_2017_roi_RBF_risky_boys_vs_girls;
